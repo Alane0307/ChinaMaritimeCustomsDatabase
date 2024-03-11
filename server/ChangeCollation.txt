@@ -1,0 +1,1 @@
+ALTER DATABASE ChinaMarinetime COLLATE Japanese_CI_AS;

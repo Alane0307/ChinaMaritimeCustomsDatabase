@@ -1,0 +1,12 @@
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\bin\Debug\ChinaMarine_proto.exe.config
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\bin\Debug\ChinaMarine_proto.exe
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\bin\Debug\ChinaMarine_proto.pdb
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\bin\Debug\ChinaMarine_proto.xml
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.Form1.resources
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.Resources.resources
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.vbproj.GenerateResource.Cache
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.exe
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.xml
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.pdb
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.Form2.resources
+E:\Users\hasee\Project\ChinaMarine_proto\ChinaMarine_proto\obj\Debug\ChinaMarine_proto.vbprojResolveAssemblyReference.cache

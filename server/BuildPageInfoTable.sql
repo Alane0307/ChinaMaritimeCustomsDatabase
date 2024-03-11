@@ -1,0 +1,21 @@
+USE ChinaMarinetime
+GO
+CREATE TABLE PageInfo
+(
+CallNo NCHAR(5) PRIMARY KEY,
+BookName NVARCHAR(300) NOT NULL,
+StartTime SMALLINT,
+EndTime SMALLINT,
+BookNo TINYINT NOT NULL DEFAULT(1),
+StartPage SMALLINT,
+EndPage SMALLINT,
+Condition NVARCHAR(100),
+Region NVARCHAR(50),
+Title NVARCHAR(300),
+Tag NCHAR(1),
+Category NVARCHAR(10),
+Remark1 NVARCHAR(50),
+Remark2 NVARCHAR(50),
+Composition NCHAR(20)
+);
+GO
